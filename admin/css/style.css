@@ -1,0 +1,36 @@
+.parsley-errors-list {
+	color: #F00;
+	margin-left: -10px;
+}
+
+.card-body h3 {
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+thead {
+	background: #ccc;
+}
+
+label {
+	margin-top: 10px;
+}
+
+iframe {
+	border: 1px solid #ccc;
+	padding: 10px;
+	margin: 20px 0;
+}
+
+.login {
+	width: 400px;
+	padding: 20px;
+	box-sizing: border-box;
+	margin: 40px auto;
+	box-shadow: 0 0 20px #ccc;
+}
+
+.login h1 {
+	color: #000;
+	font-weight: bold;
+}
