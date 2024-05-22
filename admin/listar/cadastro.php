@@ -38,7 +38,7 @@
 <body>
     <h2>Cadastro</h2>
 
-    <form method="post" action="processar_cadastro.php">
+    <form method="post" action="salvar/processar_cadastro.php">
         <label for="nome">Nome:</label>
         <input type="text" id="nome" name="nome" required>
         <br><br>
@@ -73,5 +73,10 @@
 
         <button type="submit">Cadastrar</button>
     </form>
+
+    <!-- <?php 
+    // print_r($_POST);
+    // exit;
+    ?> -->
 </body>
 </html>
